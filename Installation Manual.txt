@@ -1,0 +1,12 @@
+INSTALLATION MANUAL
+
+Pre-Requisites:
+	1. Turbo C3
+
+How to Install:
+	1. Download the CPP file to your Desktop
+	2. Place the CPP file in the "bin" directory of Turbo C3
+	3. Open Turbo C3.
+	4. Load the CPP file which you want.
+	5. Compile the program and run.
+	6. Enjoy:)
